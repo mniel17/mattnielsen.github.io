@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Matthew J Nielsen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Hello, I'm Matthew!</h1>
+    <p>Mechanical & Biomedical Engineering Student.</p>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Nanotube Research – <a href="#">GitHub Repo</a></li>
+            <li>Prosthetic Design – <a href="#">Project Link</a></li>
+        </ul>
+    </section>
+</body>
+</html>
