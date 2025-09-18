@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matthew J Nielsen | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Matthew J Nielsen</h1>
+        <p>Mechanical & Biomedical Engineering Student</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a mechanical engineering student passionate about biomedical design, nanomaterials, and improving quality of life through innovative technology. Experienced in CAD design, Python programming, and hands-on engineering projects.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-list">
+            <div class="project">
+                <h3>Carbon Nanotube Research</h3>
+                <p>Produced 100+ CNT samples using industrial furnaces, optimizing conditions for consistent growth.</p>
+                <a href="#">GitHub Repo</a>
+            </div>
+            <div class="project">
+                <h3>Prosthetic Design</h3>
+                <p>Led engineering design team to build low-cost prosthetic limbs for patients in the Dominican Republic.</p>
+                <a href="#">Project Details</a>
+            </div>
+            <div class="project">
+                <h3>CAD Automation Tool</h3>
+                <p>Developing a Python-based parametric CAD automation system for rapid prototyping of engineering designs.</p>
+                <a href="#">GitHub Repo</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <ul>
+            <li>Email: <a href="mailto:mattnielsen03@gmail.com">mattnielsen03@gmail.com</a></li>
+            <li>Phone: 385-251-6511</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/matt-nielsen03" target="_blank">linkedin.com/in/matt-nielsen03</a></li>
+            <li>GitHub: <a href="https://github.com/mattnielsen03" target="_blank">github.com/mattnielsen03</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Matthew J Nielsen</p>
+    </footer>
+</body>
+</html>
