@@ -1,19 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Matthew J Nielsen</title>
-    <link rel="stylesheet" href="style.css">
+    <title>My Portfolio</title>
 </head>
 <body>
-    <h1>Hello, I'm Matthew!</h1>
-    <p>Mechanical & Biomedical Engineering Student.</p>
-    <section id="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li>Nanotube Research – <a href="#">GitHub Repo</a></li>
-            <li>Prosthetic Design – <a href="#">Project Link</a></li>
-        </ul>
-    </section>
+    <h1>Welcome to My Portfolio</h1>
+    <p>This is my first GitHub Pages site!</p>
 </body>
 </html>
